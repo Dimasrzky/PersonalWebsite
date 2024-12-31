@@ -18,9 +18,9 @@ export const ABOUT_TEXT = {
 export const EXPERIENCES = [
   {
     year: "Sep 2024 - Present",
-    role: "Junior Machine Learning",
+    role: "Machine Learning",
     company: "UII INFORVATION TEAM",
-    description: `As a Junior Machine Learning Engineer in the UII Inforvatio team, I've had the invaluable opportunity to contribute to a specialized group formed for the KOMINFO Data Scientist Competition. Our team, representing Universitas Islam Indonesia, brings together passionate individuals dedicated to exploring and implementing innovative data science solutions.`,
+    description: `As a Machine Learning Engineer in the UII Inforvatio team, I've had the invaluable opportunity to contribute to a specialized group formed for the KOMINFO Data Scientist Competition. Our team, representing Universitas Islam Indonesia, brings together passionate individuals dedicated to exploring and implementing innovative data science solutions.`,
     technologies: ["TensorFlow", "Scikit-Learn", "Pandas", "Numpy", "Jupyter"],
   },
   {
@@ -59,7 +59,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Revolutionizing Urban Safety through Annual and Regional Crime Trend Prediction in DKI Jakarta. ",
-    technologies: ["Streamlit","Python", "Pandas", "Numpy", "Scikit-Learn", "Matplotlib"],
+    technologies: ["Flask","Python", "Scikit-Learn", "JavaScript","HTML","CSS"],
   },
   {
     title: "VERDA",
